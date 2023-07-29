@@ -1,3 +1,4 @@
+![dex2oat-optimize](https://github.com/rakarmp/dex2oat-optimize/raw/main/dex2oat-optimize.png)
 
 # dex2oat optimize
 
